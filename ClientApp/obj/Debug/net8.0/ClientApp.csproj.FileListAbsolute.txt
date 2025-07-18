@@ -1,0 +1,7 @@
+C:\Users\ryanv\Downloads\InventoryHub\ClientApp\obj\Debug\net8.0\ClientApp.csproj.AssemblyReference.cache
+C:\Users\ryanv\Downloads\InventoryHub\ClientApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ryanv\Downloads\InventoryHub\ClientApp\obj\Debug\net8.0\ClientApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanv\Downloads\InventoryHub\ClientApp\obj\Debug\net8.0\ClientApp.AssemblyInfoInputs.cache
+C:\Users\ryanv\Downloads\InventoryHub\ClientApp\obj\Debug\net8.0\ClientApp.AssemblyInfo.cs
+C:\Users\ryanv\Downloads\InventoryHub\ClientApp\obj\Debug\net8.0\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\ryanv\Downloads\InventoryHub\ClientApp\obj\Debug\net8.0\ClientApp.MvcApplicationPartsAssemblyInfo.cache
